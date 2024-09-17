@@ -71,3 +71,9 @@ Você será avaliado com base em:
 - Seguimento das instruções e boas práticas de Git
 
 Boa sorte e bom apetite!
+
+## Contribuidores 😊
+
+<a href="https://github.com/Little-Panela/ComputacaoAmostra-Frontend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RyanOliveira00/Projeto-pratico-de-DevOps-Livro-de-Receitas-Colaborativo" />
+</a>
