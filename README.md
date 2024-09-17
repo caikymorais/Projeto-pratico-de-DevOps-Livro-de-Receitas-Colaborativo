@@ -58,6 +58,9 @@ git push origin adiciona-receita-[NOME_DA_SUA_RECEITA]
 - Se necessário, faça as alterações solicitadas
 - Quando aprovado, sua receita será incorporada ao projeto principal
 
+### 9. Acesse o site para verificar a sua receita e compartilhar com seus amigoos
+- https://ryanoliveira00.github.io/receitas-pratica-monitoria-devops-cesupa-2024/
+
 ## Entrega
 - URL do seu fork
 - URL do Pull Request criado
